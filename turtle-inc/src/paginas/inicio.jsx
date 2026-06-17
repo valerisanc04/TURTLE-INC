@@ -1,4 +1,4 @@
-import Menu from "../componentes/Menu"
+import Menu from "../componentes/menu"
 
 function Inicio() {
     return (

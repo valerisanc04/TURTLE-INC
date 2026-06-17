@@ -4,7 +4,7 @@ function Registro() {
     return (
         <div>
             <Menu/>
-            <h1>Bienvenido a la pagina de inicio</h1>
+            <h1>Bienvenido a la pagina de registros</h1>
         </div>
     )
 }
